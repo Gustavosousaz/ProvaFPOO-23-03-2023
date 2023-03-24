@@ -1,0 +1,7 @@
+Ler a quantidade (em Kg) de morangos adquiridos
+Ler a quantidade (em Kg) de maças adquiridas
+Ler a quantidade (em Kg) de bananas adquiridas
+Calcular o valor total da compra: (quantidade de morangos * 2.50) + (quantidade de maças * 1.80) + (quantidade de bananas * 1.30)
+Verificar se o valor total da compra ultrapassa R$ 25,00 ou se a quantidade total de frutas adquiridas é maior que 8 Kg
+Se a condição do passo 6 for verdadeira, calcular o desconto de 10% sobre o valor total da compra
+Exibir o valor a ser pago pelo cliente, considerando o desconto calculado no passo 7 (ou o valor total da compra, caso não haja desconto)
